@@ -65,9 +65,9 @@ namespace palindrome
 
 ## Output:
 ### Palindrome
-![](EXPNO2.PNG)
+![](https://github.com/Shriram2004/Palindrome/blob/main/EXPNO2.png)
 ### Not a Palindrome
-![](EXPNO2.1.PNG)
+![](https://github.com/Shriram2004/Palindrome/blob/main/EXPNO2.1.png)
 
 ## Result:
 
